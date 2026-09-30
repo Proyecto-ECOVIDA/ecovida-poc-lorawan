@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "node_tx_lilygo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
